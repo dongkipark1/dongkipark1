@@ -1,5 +1,7 @@
 ## 동기적인 GIT 창고 👋
 
+![DK github](./DK%20github.png)
+
 <!--
 **dongkipark1/dongkipark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
