@@ -96,4 +96,9 @@ https://github.com/dongkipark1/Final-Project-BackEnd
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Pub](https://img.shields.io/badge/Dart%20Pub-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+
+![Dongki Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkipark1&show_icons=true&theme=dark)
+
+[![Dongki Park's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongkipark1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 앞으로 더 늘려나가 보겠습니다!!
