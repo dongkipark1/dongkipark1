@@ -1,4 +1,4 @@
-## 동기적인 GIT 창고 👋
+## D.K의 동기적인 GIT 창고 👋
 
 ![DK github](./DK%20github.png)
 
