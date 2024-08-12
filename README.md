@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 -->
 ## 노션 주소
 https://burnt-chair-a84.notion.site/d2221745d9224ada978d83e08c1d4769
-
+<br>
+<br>
+## 블로그 주소
+https://inblog.ai/rottenyogurt?traffic_type=internal
+<br>
+<br>
 ## 프로젝트
 ### 취업공고 사이트
 https://github.com/dongkipark1/human_cloud_web_project1
