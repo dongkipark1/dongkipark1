@@ -2,6 +2,7 @@
 
 ![DK github](./DK%20github.png)
 
+
 <!--
 **dongkipark1/dongkipark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -123,4 +124,5 @@ https://github.com/dongkipark1/pink-project(백엔드)
 
 [![Dongki Park's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongkipark1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-앞으로 더 늘려나가 보겠습니다!!
+ ## “목표를 향한 노력에는 실패가 없다. 그것은 성공의 단계일 뿐이다”
+
