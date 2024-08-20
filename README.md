@@ -1,4 +1,4 @@
-## D.K의 동기적인 GIT 창고 👋
+## 씽크박의 동기적인 GIT 창고 👋
 
 <img src="./박동기%20소개배너.png" alt="박동기 소개배너" width="600"/>
 <img src="./DK%20github.png" alt="DK github" width="600"/>
