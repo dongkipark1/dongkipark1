@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 https://burnt-chair-a84.notion.site/d2221745d9224ada978d83e08c1d4769
 <br>
 <br>
+## 노션 포트폴리오 소개
+https://burnt-chair-a84.notion.site/c269d13da9b0441e9194cfbabbbbe3b0?pvs=4
+<br>
+<br>
 ## 블로그 주소
 https://inblog.ai/rottenyogurt?traffic_type=internal
 <br>
